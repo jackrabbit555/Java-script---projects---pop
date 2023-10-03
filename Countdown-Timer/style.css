@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&family=Martian+Mono:wght@500&family=Pixelify+Sans&family=Poppins:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "poppins", sans-serif;
+    margin: 0;
+    background-image: url(./sea\ .jpg);
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center;  */
+
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 4rem;
+    margin-top: 10rem;
+    font-weight: normal;
+    margin-top: 5rem;
+
+
+}
+
+.big-text {
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+    font-weight: bold;
+
+
+
+}
+
+.countdown-el {
+    text-align: center;
+
+}
+
+.countdown-el span {
+    font-size: 1.5rem;
+}
+
+.countdown-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}

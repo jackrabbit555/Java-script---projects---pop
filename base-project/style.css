@@ -1,0 +1,12 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&display=swap');
+
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "poppins" sans-serif;
+    margin: 0;
+}
